@@ -1,5 +1,5 @@
 {
-  "nxwa_updates": [g
+  "nxwa_updates": [
     {
  "title":"NXWA Business Update !",
  "description":"NXWA Business V4.1
