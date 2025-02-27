@@ -1,8 +1,8 @@
 {
   "nxwa_updates": [
     {
- "title":"NXWA Business Update !",
- "description":"NXWA Business V4.1
+ "title":"NXWA Business Update",
+ "description":"NXWA Business V4.4
  
  Updated date : 12/03/2025
  Version : 2.25.1.76",
