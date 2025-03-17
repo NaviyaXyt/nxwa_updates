@@ -1,1 +1,1 @@
-# nxwa_updates
+# nx_whatsapp
